@@ -1,4 +1,4 @@
-# emotional_analysis
+zd# emotional_analysis
 基于Spark网易云音乐数据分析
 包含爬虫,Scala代码,Spark,Hadoop,elasticSearch,logstash,echarts,log4j<br/>
 
